@@ -3,11 +3,12 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"github.com/PuerkitoBio/goquery"
 	"os"
 	"os/exec"
 	_ "strconv"
 	"time"
+
+	"github.com/PuerkitoBio/goquery"
 )
 
 func main() {
